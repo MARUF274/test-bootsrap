@@ -1,0 +1,15 @@
+.container2{
+    float: right;
+    margin-right: 200px;
+    display: flex;
+}
+
+h1{
+    text-align: center;
+}
+.card{
+    display: flex;
+    width: 1200px;
+    height: 400px;
+    margin: 20px;
+}
